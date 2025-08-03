@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+📊 GitHub Stats
+<div align="center">
+<a href="https://github.com/rakesh-hemwani">
+<img src="https://github-readme-stats.vercel.app/api?username=rakesh-hemwani&show_icons=true&theme=dark" alt="Rakesh Hemwani's GitHub Stats"/>
+</a>
+<a href="https://github.com/rakesh-hemwani">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-hemwani&layout=compact&theme=dark" alt="Top Languages"/>
+</a>
+</div>
 <!--
 **rakesh-hemwani/rakesh-hemwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
