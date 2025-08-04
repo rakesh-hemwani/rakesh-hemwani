@@ -1,25 +1,62 @@
-## Hi there 👋
+# Hi, I'm Rakesh Hemwani 👋
 
-📊 GitHub Stats
-<div align="center">
-<a href="https://github.com/rakesh-hemwani">
-<img src="https://github-readme-stats.vercel.app/api?username=rakesh-hemwani&show_icons=true&theme=dark" alt="Rakesh Hemwani's GitHub Stats"/>
-</a>
-<a href="https://github.com/rakesh-hemwani">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-hemwani&layout=compact&theme=dark" alt="Top Languages"/>
-</a>
-</div>
-<!--
-**rakesh-hemwani/rakesh-hemwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer at IBM**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Passionate about building scalable solutions and improving interactions, both in tech and life.
+- On a mission to make every place better to interact—whether that’s in code, on a team, or with users.
+
+---
+
+## 🛠️ Skills & Expertise
+
+**Languages:**  
+Java | JavaScript | TypeScript | SQL | NoSQL | COBOL | Apex | HTML/CSS
+
+**Frameworks & Libraries:**  
+Spring Boot | MERN Stack | Salesforce APEX | IMS DB | Git/GitHub | Docker | Redis
+
+**Core CS Concepts:**  
+OOP | Data Structures & Algorithms | Operating Systems | DBMS
+
+---
+
+## 📜 Certifications
+
+- Java & Web Technologies (IBM)
+- AWS CLF-C02
+- IBM z/OS
+- Salesforce Apex Specialist Badge
+
+*Check my [GitHub repositories](https://github.com/rakesh-hemwani?tab=repositories) for more on technologies and certifications I work with.*
+
+---
+
+## 🌟 Featured Projects
+
+> Explore my work on [GitHub](https://github.com/rakesh-hemwani?tab=repositories) to see my latest and greatest projects!
+
+---
+
+## 💬 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rakeshhemwani/)
+
+---
+
+## 🎯 Motto
+
+> “Building scalable solutions at IBM | Exploring tech, databases, and cloud | On a mission to make every place better to interact.”
+
+---
+
+## 🎲 Hobbies
+
+- Always searching for better places to interact, both online and offline!
+
+---
+
+_Thanks for stopping by! Feel free to connect or check out my projects._
