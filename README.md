@@ -1,6 +1,6 @@
 # Hi, I'm Rakesh Hemwani 👋
 
-**Software Engineer at IBM**
+**Software Engineer**
 
 ---
 
