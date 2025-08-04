@@ -49,13 +49,13 @@ OOP | Data Structures & Algorithms | Operating Systems | DBMS
 
 ## 🎯 Motto
 
-> “Building scalable solutions at IBM | Exploring tech, databases, and cloud | On a mission to make every place better to interact.”
+> “The best way to predict the future is to invent it.” — Alan Kay
 
 ---
 
 ## 🎲 Hobbies
 
-- Always searching for better places to interact, both online and offline!
+- 
 
 ---
 
