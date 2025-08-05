@@ -79,6 +79,12 @@ OOP | Data Structures & Algorithms | Operating Systems | DBMS
 ## 🏆 Motto
 
 > “The best way to predict the future is to invent it.” — Alan Kay
+> ## 🌟 Random Motto & Quotes
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
+
 
 ---
 
