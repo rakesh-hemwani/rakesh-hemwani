@@ -76,15 +76,22 @@ OOP | Data Structures & Algorithms | Operating Systems | DBMS
 
 ---
 
-## 🏆 Motto
+## 💭 Random Dev Quote
 
 > “The best way to predict the future is to invent it.” — Alan Kay
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</div>
+
 ---
 
-## 🎲
+<div align="center">
+  <i>✨ "Code is like humor. When you have to explain it, it's bad." – Cory House ✨</i>
+  
+  **Thanks for visiting my profile! Have a great day! 🚀**
+  
+  ![](https://komarev.com/ghpvc/?username=rakesh-hemwani&color=brightgreen&style=flat-square&label=Profile+Views)
+</div>
 
-> “I don’t have dreams, I have goals.” — Harvey Specter
-
----
-
-_Thanks for stopping by! Feel free to connect or check out my projects._
