@@ -10,11 +10,7 @@ Passionate about building scalable solutions, exploring databases, cloud, and le
 
 ---
 
-## 🏆 Motto
 
-> “The best way to predict the future is to invent it.” — Alan Kay
-
----
 
 ## 🛠️ Skills & Expertise
 
@@ -77,6 +73,12 @@ OOP | Data Structures & Algorithms | Operating Systems | DBMS
 ## 💬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakeshhemwani/)
+
+---
+
+## 🏆 Motto
+
+> “The best way to predict the future is to invent it.” — Alan Kay
 
 ---
 
