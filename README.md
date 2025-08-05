@@ -80,7 +80,7 @@ OOP | Data Structures & Algorithms | Operating Systems | DBMS
 
 ---
 
-## 🎲 Hobbies
+## 🎲
 
 > “I don’t have dreams, I have goals.” — Harvey Specter
 
