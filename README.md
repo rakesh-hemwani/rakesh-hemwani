@@ -1,8 +1,10 @@
+
+---<img width="1536" height="1024" alt="image (13)" src="https://github.com/user-attachments/assets/6a2525cc-d617-4524-8d17-0ed804852bb1" />
+
 # Hi, I'm Rakesh Hemwani 👋
 
 **Software Engineer**
 
----
 
 ## 🚀 About Me
 
